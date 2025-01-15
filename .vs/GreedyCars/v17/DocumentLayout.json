@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\musta\\Desktop\\GreedyCars\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{362102DC-4CC1-4D03-F1F0-38C54B5CD091}|Assembly-CSharp.csproj|C:\\Users\\musta\\Desktop\\GreedyCars\\assets\\oyna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{362102DC-4CC1-4D03-F1F0-38C54B5CD091}|Assembly-CSharp.csproj|solutionrelative:assets\\oyna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{362102DC-4CC1-4D03-F1F0-38C54B5CD091}|Assembly-CSharp.csproj|c:\\users\\musta\\desktop\\greedycars\\assets\\arabahareket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{362102DC-4CC1-4D03-F1F0-38C54B5CD091}|Assembly-CSharp.csproj|solutionrelative:assets\\arabahareket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "arabahareket.cs",
+              "DocumentMoniker": "C:\\Users\\musta\\Desktop\\GreedyCars\\Assets\\arabahareket.cs",
+              "RelativeDocumentMoniker": "Assets\\arabahareket.cs",
+              "ToolTip": "C:\\Users\\musta\\Desktop\\GreedyCars\\Assets\\arabahareket.cs",
+              "RelativeToolTip": "Assets\\arabahareket.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T16:08:15.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "oyna.cs",
+              "DocumentMoniker": "C:\\Users\\musta\\Desktop\\GreedyCars\\Assets\\oyna.cs",
+              "RelativeDocumentMoniker": "Assets\\oyna.cs",
+              "ToolTip": "C:\\Users\\musta\\Desktop\\GreedyCars\\Assets\\oyna.cs",
+              "RelativeToolTip": "Assets\\oyna.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAADEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T20:05:48.771Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
